@@ -1,0 +1,45 @@
+==== Headers
+
+= Header 1
+
+== Header 2
+
+==== Styles
+
+_Italic_, *bold*, _underscore_, [line-through]*strikethrough*
+
+==== Hyperlink
+
+https://www.markdownguide.org/[hyperlink]
+
+==== Table
+
+[cols=",<,^,>",options="header",]
+|====================================================
+|Default |Left-aligned |Center-aligned |Right-aligned
+|Default |Left |Center |Right
+|====================================================
+
+==== Others
+
+* Bulleted item 1
+** Bulleted subitem 1
+* Bulleted item 2
+
+'''''
+
+1.  Ordered item 1 +
+1.1. Ordered subitem 1 +
+2.  Ordered item 2
+
+'''''
+
+* [ ] Unchecked box
+* [x] Checked box
+
+
++*In[ ]:*+
+[source, ipython3]
+----
+
+----
